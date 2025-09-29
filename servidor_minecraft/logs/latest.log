@@ -1,101 +1,15 @@
-[29Sep2025 00:00:43.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Isn't It Iron Pick]
-[29Sep2025 00:00:48.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Acquire Hardware]
-[29Sep2025 00:04:12.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 has made the advancement [Not Today, Thank You]
-[29Sep2025 00:08:59.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was slain by Zombie
-[29Sep2025 00:12:30.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj was shot by Illusioner
-[29Sep2025 00:13:19.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Not Today, Thank You]
-[29Sep2025 00:21:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> -518.823 114 -273.736
-[29Sep2025 00:24:02.547] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25062, l='ServerLevel[world]', x=-475.58, y=113.00, z=-210.58] died, message: 'Villager froze to death'
-[29Sep2025 00:24:54.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> nigga
-[29Sep2025 00:25:05.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> pussy
-[29Sep2025 00:25:57.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> yes
-[29Sep2025 00:26:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[29Sep2025 00:26:05.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[29Sep2025 00:26:06.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> si
-[29Sep2025 00:26:14.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> mallllditaaaaaa
-[29Sep2025 00:26:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> a
-[29Sep2025 00:26:37.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> yes ma nigga
-[29Sep2025 00:26:50.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj fell from a high place
-[29Sep2025 00:29:50.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj fell from a high place
-[29Sep2025 00:31:38.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-422, y=96, z=-212} BlockPos{x=-425, y=95, z=-212}
-[29Sep2025 00:33:14.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 burned to death
-[29Sep2025 00:34:05.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=113, z=-309} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=113, z=-309} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=113, z=-309} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=113, z=-309} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-307} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-307} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-307} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:05.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:06.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:34:06.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-434, y=112, z=-306} BlockPos{x=-434, y=112, z=-310}
-[29Sep2025 00:39:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 froze to death
-[29Sep2025 00:39:55.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Getting an Upgrade]
-[29Sep2025 00:40:33.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 froze to death
-[29Sep2025 00:41:24.756] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[29Sep2025 00:41:24.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[29Sep2025 00:41:24.757] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[29Sep2025 00:41:54.650] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7095b8a9[id=<null>,name=megatuber06,properties={},legacy=false] (/127.247.111.8:60835) lost connection: Disconnected
-[29Sep2025 00:42:00.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.247.111.8:39223] logged in with entity id 37009 at (-179.0262688493798, 110.0, -157.8653626166412)
-[29Sep2025 00:42:00.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[29Sep2025 00:42:00.376] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[29Sep2025 00:42:00.377] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[29Sep2025 00:47:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 has made the advancement [Isn't It Iron Pick]
-[29Sep2025 00:49:52.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 was slain by Iron Golem
-[29Sep2025 00:54:17.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24996, l='ServerLevel[world]', x=-475.50, y=113.00, z=-209.50] died, message: 'Villager froze to death'
-[29Sep2025 00:55:45.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj hit the ground too hard
-[29Sep2025 00:56:37.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[29Sep2025 00:56:37.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[29Sep2025 00:56:37.055] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[29Sep2025 00:57:01.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-456, y=113, z=-323} BlockPos{x=-455, y=111, z=-322}
-[29Sep2025 00:57:06.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-465, y=115, z=-329} BlockPos{x=-464, y=115, z=-329}
-[29Sep2025 00:57:17.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=109, z=-339} BlockPos{x=-486, y=109, z=-341}
-[29Sep2025 00:57:17.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-484, y=109, z=-339} BlockPos{x=-486, y=109, z=-341}
-[29Sep2025 00:57:19.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=112, z=-342} BlockPos{x=-479, y=111, z=-344}
-[29Sep2025 00:57:19.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-479, y=112, z=-342} BlockPos{x=-479, y=111, z=-344}
-[29Sep2025 01:06:03.365] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: megatuber06[/127.247.111.8:53987] logged in with entity id 44276 at (-726.176273080069, 71.0, -214.7189117363226)
-[29Sep2025 01:06:03.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 joined the game
-[29Sep2025 01:06:04.461] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of megatuber06 (20)
-[29Sep2025 01:06:04.462] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to megatuber06
-[29Sep2025 01:06:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> guys
-[29Sep2025 01:06:17.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ?
-[29Sep2025 01:06:26.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> estoy aqui
-[29Sep2025 01:06:32.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> puedes hablar?
-[29Sep2025 01:06:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> entro ahora a discord
-[29Sep2025 01:06:45.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> ok
-[29Sep2025 01:07:58.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xClas06> que haces zarek?
-[29Sep2025 01:08:02.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <megatuber06> picar
-[29Sep2025 01:08:45.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> dildo
-[29Sep2025 01:09:56.551] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25061, l='ServerLevel[world]', x=-479.43, y=114.00, z=-209.51] died, message: 'Villager froze to death'
-[29Sep2025 01:12:15.745] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24972, l='ServerLevel[world]', x=-477.62, y=114.00, z=-208.50] died, message: 'Villager froze to death'
-[29Sep2025 01:15:34.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lechaza
-[29Sep2025 01:15:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> penazo
-[29Sep2025 01:15:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <emilghj> lolaso
-[29Sep2025 01:16:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Acquire Hardware]
-[29Sep2025 01:17:30.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj has made the advancement [Isn't It Iron Pick]
-[29Sep2025 01:19:33.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: megatuber06 lost connection: Disconnected
-[29Sep2025 01:19:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: megatuber06 left the game
-[29Sep2025 01:19:33.598] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client megatuber06
-[29Sep2025 01:28:28.099] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: emilghj lost connection: Disconnected
-[29Sep2025 01:28:28.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: emilghj left the game
-[29Sep2025 01:28:28.100] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client emilghj
-[29Sep2025 01:29:23.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xClas06 lost connection: Disconnected
-[29Sep2025 01:29:23.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xClas06 left the game
-[29Sep2025 01:29:23.146] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xClas06
-[29Sep2025 01:34:18.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[29Sep2025 01:34:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[29Sep2025 01:34:18.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[29Sep2025 01:34:18.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[29Sep2025 01:34:18.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[29Sep2025 01:34:18.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[29Sep2025 01:34:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[29Sep2025 01:34:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[29Sep2025 01:34:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[29Sep2025 01:34:18.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Sep2025 20:45:27.882] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[29Sep2025 20:45:27.888] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[29Sep2025 20:45:28.003] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/lolaso/servidor_minecraft/config/fml.toml is not correct. Correcting
+[29Sep2025 20:45:28.004] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[29Sep2025 20:45:28.006] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[29Sep2025 20:45:28.006] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[29Sep2025 20:45:28.007] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[29Sep2025 20:45:28.027] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[29Sep2025 20:45:28.077] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/lolaso/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[29Sep2025 20:45:28.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[29Sep2025 20:45:28.352] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Sep2025 20:45:28.354] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Sep2025 20:45:28.355] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/lolaso/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[29Sep2025 20:45:28.452] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[29Sep2025 20:45:30.078] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
